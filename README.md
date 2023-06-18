@@ -1,2 +1,2 @@
 # beesbeesbees
-This is a project that I worked with a pair in Hack Reactor.
+This is a project that I completed with a pair in Hack Reactor.
